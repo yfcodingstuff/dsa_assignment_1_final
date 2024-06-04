@@ -1,0 +1,160 @@
+INFO:root:Book added: ISBN: 93849984, Title: PAython, Publisher: No shtahud, Language: english, Number of Copies: 10, Availability: False
+INFO:root:Book added: ISBN: 9239283823, Title: lol, Publisher: loeeo, Language: chinese, Number of Copies: 20, Availability: False
+INFO:root:Book added: ISBN: 90000000, Title: hahah, Publisher: hahahhas, Language: english, Number of Copies: 30, Availability: False
+INFO:root:Book added: ISBN: 92430403030, Title: birds of a feather, Publisher: billie, Language: english, Number of Copies: 50, Availability: True
+2024-06-04 21:42:05,622 - INFO - User chose to exit.
+2024-06-04 21:42:17,816 - INFO - Failed login attempt.
+2024-06-04 21:42:25,770 - INFO - User chose to exit.
+2024-06-04 21:47:25,562 - INFO - User user12 logged in successfully.
+2024-06-04 23:28:42,578 - INFO - User user12 logged in successfully.
+2024-06-04 23:29:00,141 - INFO - Book added: ISBN: 123, Title: xxx, Publisher: pppp, Language: eee, Number of Copies: 12, Availability: True
+2024-06-04 23:29:03,423 - INFO - Displayed all book records.
+2024-06-04 23:30:23,000 - INFO - Invalid menu choice: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py"
+2024-06-04 23:30:34,271 - INFO - Displayed all book records.
+2024-06-04 23:30:40,443 - INFO - Invalid menu choice: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py"
+2024-06-04 23:30:44,539 - INFO - Invalid menu choice: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py"
+2024-06-04 23:30:47,528 - INFO - User user12 logged out.
+2024-06-04 23:30:56,497 - INFO - Failed login attempt.
+2024-06-04 23:31:08,355 - INFO - User user12 logged in successfully.
+2024-06-04 23:31:10,323 - INFO - Displayed all book records.
+2024-06-04 23:35:48,004 - INFO - Book added: ISBN: 98, Title: GGG, Publisher: lll, Language: eng, Number of Copies: 20, Availability: True
+2024-06-04 23:36:05,081 - INFO - Borrow failed: No book found with ISBN 12343.
+2024-06-04 23:36:21,846 - INFO - Book borrowed: ISBN: 123, Title: xxx, Publisher: pppp, Language: eee, Number of Copies: 11, Availability: True
+2024-06-04 23:36:30,744 - INFO - Displayed all book records.
+2024-06-05 00:03:25,819 - INFO - Invalid menu choice: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py"
+2024-06-05 00:03:34,862 - INFO - Invalid menu choice: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py"
+2024-06-05 00:03:36,723 - INFO - User user12 logged out.
+2024-06-05 00:03:49,733 - INFO - User user12 logged in successfully.
+2024-06-05 00:04:01,533 - INFO - Return failed: No book found with ISBN 324 or not borrowed.
+2024-06-05 00:12:07,701 - INFO - User user12 logged out.
+2024-06-05 00:18:05,556 - INFO - Failed login attempt.
+2024-06-05 00:18:31,702 - INFO - User user12 logged in successfully.
+2024-06-05 00:18:42,498 - INFO - Displayed all book records.
+2024-06-05 00:19:00,066 - INFO - Book deleted: ISBN: 123, Title: xxx, Publisher: pppp, Language: eee, Number of Copies: 11, Availability: True
+2024-06-05 00:19:03,421 - INFO - Displayed all book records.
+2024-06-05 00:19:10,228 - INFO - Update failed: No book found with ISBN 123.
+2024-06-05 00:20:00,829 - INFO - Book updated: ISBN: 98, Title: GGX, Publisher: 111, Language: ENG, Number of Copies: 2, Availability: True
+2024-06-05 00:20:02,581 - INFO - Displayed all book records.
+2024-06-05 00:20:09,159 - INFO - Borrow failed: No book found with ISBN 123.
+2024-06-05 00:26:48,072 - INFO - User user12 logged out.
+2024-06-05 00:27:15,317 - INFO - User userp logged in successfully.
+2024-06-05 00:27:32,810 - INFO - Displayed all book records.
+2024-06-05 00:28:01,368 - INFO - Book added: ISBN: 9000, Title: YOU FOUND ME, Publisher: THE FRAY, Language: ENGLISH, Number of Copies: 100, Availability: True
+2024-06-05 00:30:04,919 - INFO - User user12 logged in successfully.
+2024-06-05 00:30:09,724 - INFO - Invalid menu choice: 11
+2024-06-05 00:34:15,728 - INFO - User user12 logged in successfully.
+2024-06-05 00:34:18,419 - INFO - Displayed all book records.
+2024-06-05 00:35:08,724 - INFO - Book added: ISBN: 9, Title: 90, Publisher: 90, Language: 90, Number of Copies: 90, Availability: True
+2024-06-05 01:08:52,654 - INFO - Book added: ISBN: 1202, Title: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py", Publisher: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py", Language: j, Number of Copies: 9, Availability: False
+2024-06-05 01:08:54,587 - INFO - User user12 logged out.
+2024-06-05 01:09:02,019 - INFO - User user12 logged in successfully.
+2024-06-05 01:09:04,519 - INFO - Displayed all book records.
+2024-06-05 01:09:09,973 - INFO - Displayed all book records.
+2024-06-05 01:12:35,519 - INFO - User user12 logged in successfully.
+2024-06-05 01:13:29,013 - INFO - Book added: ISBN: 9999999999999, Title: highway code, Publisher: LTA , Language: english, Number of Copies: 90, Availability: True
+2024-06-05 01:13:31,054 - INFO - Displayed all book records.
+2024-06-05 01:13:48,141 - INFO - Book deleted: ISBN: 1202, Title: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py", Publisher: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py", Language: j, Number of Copies: 9, Availability: False
+2024-06-05 01:21:00,099 - INFO - User user12 logged in successfully.
+2024-06-05 01:21:05,483 - INFO - Displayed all book records.
+2024-06-05 01:21:16,845 - INFO - Book deleted: ISBN: 1202, Title: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py", Publisher: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py", Language: j, Number of Copies: 9, Availability: False
+2024-06-05 01:21:18,322 - INFO - User user12 logged out.
+2024-06-05 01:21:28,512 - INFO - User user12 logged in successfully.
+2024-06-05 01:21:31,139 - INFO - Displayed all book records.
+2024-06-05 01:21:42,003 - INFO - Invalid menu choice: 
+2024-06-05 01:30:15,845 - INFO - User user12 logged in successfully.
+2024-06-05 01:30:19,335 - INFO - Displayed all book records.
+2024-06-05 01:32:00,732 - INFO - User user12 logged in successfully.
+2024-06-05 01:32:05,506 - INFO - Invalid menu choice: 
+2024-06-05 01:40:07,476 - INFO - User user12 logged in successfully.
+2024-06-05 01:40:47,343 - INFO - Book added: ISBN: 9879999999999, Title: highway code, Publisher: amy, Language: english, Number of Copies: 90, Availability: True
+2024-06-05 01:40:52,320 - INFO - Displayed all book records.
+2024-06-05 01:46:46,514 - INFO - User user12 logged in successfully.
+2024-06-05 01:47:38,438 - INFO - Book added: ISBN: 1234567890123, Title: LOOK AFTER YOU, Publisher: The fray, Language: Spanish, Number of Copies: 1, Availability: True
+2024-06-05 01:47:44,449 - INFO - Displayed all book records.
+2024-06-05 01:49:09,210 - INFO - User user12 logged out.
+2024-06-05 01:54:09,409 - INFO - User user12 logged in successfully.
+2024-06-05 01:55:45,604 - INFO - Book added: ISBN: 1000000000000, Title: john publishing, Publisher: 90, Language: josehp, Number of Copies: 2, Availability: True
+2024-06-05 01:56:15,426 - INFO - User user12 logged in successfully.
+2024-06-05 01:56:18,765 - INFO - Displayed all book records.
+2024-06-05 02:00:21,229 - INFO - User user12 logged in successfully.
+2024-06-05 02:00:24,472 - INFO - Invalid menu choice: 2
+2024-06-05 02:00:33,701 - INFO - Invalid menu choice: 2
+2024-06-05 02:00:50,725 - INFO - Displayed all book records.
+2024-06-05 02:00:54,006 - INFO - Invalid menu choice: 3
+2024-06-05 02:02:32,296 - INFO - Displayed all book records.
+2024-06-05 02:02:35,705 - INFO - Displayed all book records.
+2024-06-05 02:02:38,558 - INFO - Invalid menu choice: 4
+2024-06-05 02:03:32,710 - INFO - Failed login attempt.
+2024-06-05 02:03:40,078 - INFO - User admin logged in successfully.
+2024-06-05 02:04:12,436 - INFO - Book added: ISBN: 9990999999992, Title: Wonderwall, Publisher: Oasis, Language: English, Number of Copies: 90, Availability: True
+2024-06-05 02:04:18,832 - INFO - User admin logged out.
+2024-06-05 02:04:26,142 - INFO - User user12 logged in successfully.
+2024-06-05 02:04:28,602 - INFO - Displayed all book records.
+2024-06-05 02:04:32,763 - INFO - Invalid menu choice: 2
+2024-06-05 02:04:36,930 - INFO - Sorted books by publisher (ascending order).
+2024-06-05 02:04:36,931 - INFO - Displayed all book records.
+2024-06-05 02:04:57,908 - INFO - User user12 logged out.
+2024-06-05 02:10:27,881 - INFO - User user12 logged in successfully.
+2024-06-05 02:10:28,642 - INFO - Invalid menu choice: 2
+2024-06-05 02:10:47,628 - INFO - Book borrowed: ISBN: 9, Title: 90, Publisher: 90, Language: 90, Number of Copies: 89, Availability: True
+2024-06-05 02:13:53,217 - INFO - User user12 logged out.
+2024-06-05 02:14:00,530 - INFO - User user12 logged in successfully.
+2024-06-05 02:14:01,849 - INFO - Displayed all book records.
+2024-06-05 02:14:01,849 - INFO - Invalid menu choice: 1
+2024-06-05 02:14:07,401 - INFO - Invalid menu choice: 4
+2024-06-05 02:14:38,464 - INFO - Borrow failed: No book found with ISBN 0.
+2024-06-05 02:15:15,515 - INFO - Book borrowed: ISBN: 9, Title: 90, Publisher: 90, Language: 90, Number of Copies: 88, Availability: True
+2024-06-05 02:15:26,593 - INFO - Invalid menu choice: 
+2024-06-05 02:15:27,840 - INFO - Invalid menu choice: 3
+2024-06-05 02:15:29,774 - INFO - Invalid menu choice: 2
+2024-06-05 02:18:18,200 - INFO - User user12 logged in successfully.
+2024-06-05 02:18:22,298 - INFO - Invalid menu choice: 4
+2024-06-05 02:18:41,423 - INFO - Invalid menu choice: & C:/Users/yenfo/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/yenfo/OneDrive/Documents/Documents/SCHOOL STUFF/dsa_assignment_1/main2.py"
+2024-06-05 02:18:45,577 - INFO - User user12 logged out.
+2024-06-05 02:18:52,123 - INFO - User user12 logged in successfully.
+2024-06-05 02:19:05,741 - INFO - Book borrowed: ISBN: 9, Title: 90, Publisher: 90, Language: 90, Number of Copies: 87, Availability: True
+2024-06-05 02:19:29,189 - INFO - User user12 logged out.
+2024-06-05 02:19:35,329 - INFO - User admin logged in successfully.
+2024-06-05 02:19:53,223 - INFO - Book deleted: ISBN: 9, Title: 90, Publisher: 90, Language: 90, Number of Copies: 87, Availability: True
+2024-06-05 02:23:21,777 - INFO - User chose to exit.
+2024-06-05 02:25:27,941 - INFO - Failed login attempt.
+2024-06-05 02:25:42,822 - INFO - Failed login attempt.
+2024-06-05 02:25:46,707 - INFO - User admin logged in successfully.
+2024-06-05 02:25:54,286 - INFO - Displayed books: No books available.
+2024-06-05 02:25:54,287 - INFO - Invalid menu choice: 1
+2024-06-05 02:25:59,564 - INFO - Displayed books: No books available.
+2024-06-05 02:25:59,564 - INFO - Invalid menu choice: 1
+2024-06-05 02:26:27,897 - INFO - User admin logged out.
+2024-06-05 02:26:33,704 - INFO - User admin logged in successfully.
+2024-06-05 02:26:35,012 - INFO - Displayed books: No books available.
+2024-06-05 02:27:20,425 - INFO - Book added: ISBN: 9999999999999, Title: 90 boxes, Publisher: AMY , Language: english, Number of Copies: 10, Availability: True
+2024-06-05 02:27:23,740 - INFO - Displayed all book records.
+2024-06-05 02:27:57,416 - INFO - Book updated: ISBN: 9999999999999, Title: highway code, Publisher: LTA, Language: ENGLISH, Number of Copies: 90, Availability: True
+2024-06-05 02:27:59,245 - INFO - Displayed all book records.
+2024-06-05 02:28:17,215 - INFO - Book deleted: ISBN: 9999999999999, Title: highway code, Publisher: LTA, Language: ENGLISH, Number of Copies: 90, Availability: True
+2024-06-05 02:28:25,885 - INFO - Displayed books: No books available.
+2024-06-05 02:28:27,920 - INFO - Invalid menu choice: 9999999999999
+2024-06-05 02:28:42,820 - INFO - Book added: ISBN: 9999999999999, Title: HIGHWAY CODE, Publisher: LTA, Language: ENGLISH, Number of Copies: 90, Availability: True
+2024-06-05 02:28:47,251 - INFO - Book borrowed: ISBN: 9999999999999, Title: HIGHWAY CODE, Publisher: LTA, Language: ENGLISH, Number of Copies: 89, Availability: True
+2024-06-05 02:28:59,081 - INFO - Book borrowed: ISBN: 9999999999999, Title: HIGHWAY CODE, Publisher: LTA, Language: ENGLISH, Number of Copies: 88, Availability: True
+2024-06-05 02:41:31,640 - INFO - User admin logged out.
+2024-06-05 02:41:51,110 - INFO - User user12 logged in successfully.
+2024-06-05 02:41:55,496 - INFO - Invalid menu choice: 
+2024-06-05 02:42:00,747 - INFO - Invalid menu choice: hello
+2024-06-05 02:44:28,258 - INFO - User user12 logged out.
+2024-06-05 02:44:43,007 - INFO - User admin logged in successfully.
+2024-06-05 02:45:30,321 - INFO - Book added: ISBN: 9876543210123, Title: scar tissue, Publisher: red hot chilli peppers, Language: chinese, Number of Copies: 90, Availability: True
+2024-06-05 02:45:59,592 - INFO - Book added: ISBN: 9898989898980, Title: YOU FOUND ME, Publisher: THE FRAY, Language: ENGLISH, Number of Copies: 100, Availability: True
+2024-06-05 02:46:03,828 - INFO - Sorted books by publisher (ascending order).
+2024-06-05 02:46:03,829 - INFO - Displayed all book records.
+2024-06-05 02:48:41,949 - INFO - Sorted books by number of copies (descending order).
+2024-06-05 02:48:41,950 - INFO - Displayed all book records.
+2024-06-05 02:49:32,493 - INFO - Book added: ISBN: 9870009000000, Title: YOURS, Publisher: JASON MRAZ, Language: SPANISH, Number of Copies: 89, Availability: False
+2024-06-05 02:49:34,852 - INFO - Sorted books by number of copies (descending order).
+2024-06-05 02:49:34,853 - INFO - Displayed all book records.
+2024-06-05 02:49:40,993 - INFO - Sorted books by publisher (ascending order).
+2024-06-05 02:49:40,994 - INFO - Displayed all book records.
+2024-06-05 02:51:12,789 - INFO - Book updated: ISBN: 9898989898980, Title: YOU FOUND ME, Publisher: the fray, Language: english, Number of Copies: 100, Availability: True
+2024-06-05 02:51:15,465 - INFO - Sorted books by publisher (ascending order).
+2024-06-05 02:51:15,466 - INFO - Displayed all book records.
+2024-06-05 02:51:26,177 - INFO - User admin logged out.
